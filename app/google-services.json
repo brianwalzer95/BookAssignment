@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "148938844535",
+    "firebase_url": "https://bookassignment-93de1.firebaseio.com",
+    "project_id": "bookassignment-93de1",
+    "storage_bucket": "bookassignment-93de1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148938844535:android:9319831a0599740d",
+        "android_client_info": {
+          "package_name": "com.example.owner.bookassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148938844535-6fc2u60c13etbsepf0pr3cg9atgoguuu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.owner.bookassignment",
+            "certificate_hash": "788c9956d101d8c3b1e99b4ade5a609ab76e5f1c"
+          }
+        },
+        {
+          "client_id": "148938844535-b8hirn8lctcc0c17n2ctkk7bsoieqjj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6xM5LbO4LMJMP6GUfb2-AS5z086OnkFY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148938844535-b8hirn8lctcc0c17n2ctkk7bsoieqjj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
